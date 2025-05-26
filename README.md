@@ -1,4 +1,4 @@
-# 🎬 Drop Day = Dollars: The Business Impact of Release Scheduling in the OTT Era
+# 🎬 Drop Day = Dollars: The Business Impact of Release Scheduling in the Streaming Era
 
 ## Introduction
 
