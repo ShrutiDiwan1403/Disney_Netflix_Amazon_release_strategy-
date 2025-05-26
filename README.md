@@ -13,7 +13,7 @@ Using an insider lens from Disney Television Studios, we unpack the "why" behind
 
 Release timing isn’t just about calendar dates. It directly affects:
 
-- **User Engagement**: When do people hit play?
+- **User Engagement**: How many people hit play?
 - **Churn Reduction**: Who sticks around for next week's episode?
 - **Viewer Behavior**: Which time zones and demographics tune in?
 
@@ -44,7 +44,7 @@ Release timing isn’t just about calendar dates. It directly affects:
 ## Prime Video (Amazon MGM Studios): *Mix It Up to Win*
 
 ### Strategy: Balance Engagement and Retention  
-### Method: Hybrid model — some full drops (*The Boys: Diabolical*), some weekly (*The Rings of Power*)
+### Method:A mix of some shows get full-season drops (*The Boys: Diabolical*), others go weekly (*The Rings of Power*).
 
 ### Why It Works:
 - **Adapts to audience expectations** by genre
@@ -63,7 +63,7 @@ Release timing isn’t just about calendar dates. It directly affects:
 
 ### Why It Works:
 - **Avoids Friday crowding** from Netflix/Amazon
-- **Midweek gap filler**—optimizes visibility
+- **Midweek gap filler** optimized  visibility
 - Shows like *Loki* demonstrated **higher midweek retention**
 - **Ideal for family co-viewing** and sustaining fan ecosystems
 
@@ -76,7 +76,7 @@ Release timing isn’t just about calendar dates. It directly affects:
 
 ## Comparison Table
 
-| Platform   | Drop Style       | Typical Day | Strategic Goal             | Risk                    |
+| Platform   | Drop Style       | Typical Day | Strategic Goal              | Risk                    |
 |------------|------------------|-------------|-----------------------------|--------------------------|
 | Netflix    | Full season drop | Friday      | Maximize binge engagement   | Short hype cycle         |
 | Prime Video| Mixed model      | Varies      | Balance engagement/retention| May confuse audience     |
@@ -86,8 +86,8 @@ Release timing isn’t just about calendar dates. It directly affects:
 
 ## Key Insight
 
-> **In streaming, timing isn’t just a scheduling choice. It’s a strategic differentiator.**  
-> The day you drop a show shapes how it’s watched, shared, and remembered.
+ **In streaming, timing isn’t just a scheduling choice. It’s a strategic differentiator.**  
+ **The day you drop a show shapes how it’s watched, shared, and remembered.**
 
 
 
@@ -99,9 +99,13 @@ Release timing isn’t just about calendar dates. It directly affects:
 
 
 
-## 💡 Closing Thought
+## Closing Thought
 
-The shift to Wednesday drops, pioneered by Disney+, proves that **data-backed release strategy** can redefine engagement patterns. In today’s landscape, it’s not just the content that matters—it’s **when** the world sees it.
+The shift to Wednesday drops, pioneered by Disney+, proves that **data-backed release strategy** can redefine engagement patterns. In today’s landscape, it’s not just the content that matters. It’s **when** the world sees it.
+
+
+## Components the study covers
+**Customer behsviour analysis, market research, customer segmentation, strategy, data analysis, and forward looking insight/approach**
 
 
 
